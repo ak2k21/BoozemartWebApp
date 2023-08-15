@@ -1,0 +1,27 @@
+.ConditionsContainer{
+    padding: 20px;
+    height: 100%;
+    background-color: #f0f0f0;
+    /* border: 1px solid #ddd; */
+    border-radius: 4px;
+}
+.Home{
+    margin-right: 900px;
+    gap: 20px;
+    display: flex;
+}
+.terms{
+    height:100%;
+    width:100%;
+    background-color: white;
+
+}
+/* .TermsandConditions{
+    text-align: justify;
+} */
+.condition{
+    margin-right: 1000px;
+}
+.date{
+    margin-right: 1050px;
+}

@@ -1,0 +1,78 @@
+.product-card2 {
+  border: 2px solid rgb(13, 255, 0);
+    height: 220px;
+    width: 470px;
+    display: flex;
+    margin:15px;
+}
+
+.product-card:hover2 {
+  box-shadow: 0 4px 8px rgb(237, 44, 44);
+}
+
+.product-image2 {
+  height:170px;
+  width: 170px;
+}
+
+.product-details2 {
+  height:220px;
+  border: 3px solid yellow;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.product-name2 {
+  height:45px;width: 100%;
+  font-size: 15px;
+}
+
+
+.rating2 {
+  height: 25px;
+ 
+}
+p{
+  margin: 10px;
+}
+
+.price2 {
+  
+}
+
+.description2 {
+  /* margin-bottom: 10px; */
+  
+}
+
+.quantity2 {
+  /* margin-bottom: 10px; */
+  
+}
+
+.heart-icon {
+  
+}
+.CardBottom{
+  height: 70px;
+  display: flex;
+}
+
+.add-to-cart-btn {
+  
+  &:hover {
+    background-color: #0056b3;
+  }
+}
+
+.product-img{
+  border: 3px solid aqua;
+  width:220px;
+}
+
+.prButton{
+  width: 150px;
+    padding: 0px;
+    margin: 5px;
+}

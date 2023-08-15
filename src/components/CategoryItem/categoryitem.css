@@ -1,0 +1,28 @@
+.image-container {
+  text-align: center;
+  margin: 30px;
+  }
+
+
+.image-wrapper {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.round-image {
+  width: 150px;
+  height: 150px;
+  display: inline-flex;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.round-image:hover{
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+.image-name {
+  margin-top: 10px;
+
+}

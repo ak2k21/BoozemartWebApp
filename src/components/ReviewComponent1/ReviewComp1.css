@@ -1,0 +1,17 @@
+.metaTab{
+    border:2px solid red;
+    width: 300px;
+
+}
+
+.DetailsTab{
+    border: 2px solid green;
+    width: 100%;
+}
+
+.RatingContainer{
+    border: 2px solid yellow;
+    height: 300px;display: flex;
+    width: 80%;
+    margin: 10%;
+}

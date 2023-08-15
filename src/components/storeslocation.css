@@ -1,0 +1,60 @@
+/* storeslocation.css */
+
+.Productcard-horizontal {
+        display: inline-flex;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background-color: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        transition: box-shadow 0.3s ease;
+        border: 5px solid rgb(235, 239, 229);
+        overflow: hidden;
+        height: 200px;
+        width: 100%;
+    }
+  
+  .stores h4 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .store-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .store-info img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .store-text {
+    flex: 1;
+    margin-top: -15%;
+    text-align: left;
+  }
+  
+  .buttons-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    margin-left: 30%; 
+    width: 15%;
+  }
+  
+  .buttons-container button {
+    background-color: rgb(19, 19, 19);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .buttons-container button:hover {
+    background-color: skyblue;
+  }
+  

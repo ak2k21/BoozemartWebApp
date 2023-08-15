@@ -1,0 +1,71 @@
+/* .country{
+    align-items: center;
+    margin-left: 610px;
+    margin-top: 1%;
+}
+.street{
+height: 50px;
+width: 289px;
+margin-right: 20px;
+}
+.city{
+    height: 50px;
+    width: 289px;
+    margin-right: 20px;
+    }
+.state{
+        height: 50px;
+        width: 289px;
+        margin-right: 20px;
+        }
+.pincode{
+            height: 50px;
+            width: 289px;
+            margin-right: 20px;
+            }
+
+ .countrylabel{
+    margin-right: 18%;
+    font-weight: 700;
+ }    
+ 
+ .streetlabel{
+    margin-right: 14%;
+    font-weight: 700;
+ }    
+
+ .landlabel{
+    margin-right: 16%;
+    font-weight: 700;
+ }    
+
+ .townlabel{
+    margin-right: 18%;
+    font-weight: 700;
+ }    
+
+ .pinlabel{
+    margin-right: 16%;
+    font-weight: 700;
+ }    
+
+ .add{
+    height:30px;
+    width:90px;
+    border:none;
+    background-color: rgb(95, 206, 250);
+    border-radius: 8px;
+    margin-right:15%;
+    cursor: pointer;
+ }
+
+ .add:hover {
+    background-color: rgb(221, 59, 59);
+}
+
+.add:active{
+    background-color:rgb(95, 206, 250);
+}
+
+ 
+  */

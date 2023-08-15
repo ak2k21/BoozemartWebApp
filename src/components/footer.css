@@ -1,0 +1,21 @@
+.create{
+    height:20%;
+    width:40%;
+    border:none;
+    background-color:green;
+    color:black;
+    cursor:pointer;
+    border-radius: 5px;
+    font:bold;
+}
+
+.create:active{
+    background-color:whitesmoke;
+}
+.booz{
+    margin-right: 68%;
+    height:100px;
+    width:15%;
+    background-color:grey;
+
+}

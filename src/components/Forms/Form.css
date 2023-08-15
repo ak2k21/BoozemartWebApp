@@ -1,0 +1,11 @@
+.Container{
+    padding: 20px;
+    height: 100%;
+    width:50%;
+    margin-left: 300px;
+    background-color:whitesmoke;
+    
+}
+.TextInput{
+    width:100%s;
+}

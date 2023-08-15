@@ -1,0 +1,11 @@
+/* Buyitagain.css */
+.checkbox-image-container {
+  display: flex;
+  align-items: center;
+  background-color: beige;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+

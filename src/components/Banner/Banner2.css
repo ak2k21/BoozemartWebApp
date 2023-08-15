@@ -1,0 +1,21 @@
+.bannerContainer{
+    
+    border: 2px solid red;
+    width: 300px;
+    height: 200px;
+    
+}
+
+.imageContainer{
+    border:2px solid blue;
+    height: 150px;
+}
+.textButton{
+   
+}
+
+.b1 {
+    height: 30px;
+    width: 290px;
+    margin: 7px;
+}

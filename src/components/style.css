@@ -1,0 +1,15 @@
+form{
+        width:500px;
+        height: 100%;
+      background-color:white;
+      border-radius: 8px;
+      margin: 20px auto;
+    }
+    .number{
+        width: 465px;    
+    }
+    .Email{
+        margin-top: 10px;
+        margin-left: 10px;
+        width: 465px;
+    }

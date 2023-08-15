@@ -1,0 +1,41 @@
+ .edge{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: yellow;
+    transform: rotate(45deg);
+    z-index: 3;
+    margin-top: -15px;
+    margin-left: 175px;
+    }
+
+    .rb{
+z-index: 10;
+    }
+
+    .rbContainer{
+        margin-top: 25px;
+        display: flex;
+        height: 185px;
+        width: 360px;
+        position: absolute;
+        z-index: 2;
+        margin-left: 25px;
+    }
+
+    
+    .rbContainerWrap{
+        border: 2px solid yellow;
+        height: 220px;
+        width: 400px;
+       
+        position: absolute;
+        z-index: 1;
+        margin: 15px;
+    }
+    .rbWrap{
+        z-index: 5;
+        position: absolute;
+        margin-left: 5px;
+        background-color: white
+    }

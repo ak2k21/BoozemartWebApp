@@ -1,0 +1,72 @@
+body {
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+  .ImageContainer {
+    float: left;
+    width: 40%;
+    padding: 5px;
+  }
+  .InfoContainer {
+    float: right;
+    width: 60%;
+    padding: 5px;
+    text-align: left;
+    border-style: none;
+    font-Family: RUBIK_MEDIUM;
+  }
+  .weightText {
+    font-Family: RUBIK_REGULAR;
+    font-Size: P4;
+    color:  subHeadingColor;
+    margin-Bottom: hp("0.5");
+}
+.counter {
+  float: left;
+  width: 30%;
+  border-style: none;
+}
+.basicbutton {
+  float: right;
+  width: 65%;
+  border-style: none;
+}
+.price {
+  float: left;
+ 
+  border-style: none;
+}
+.savetolist {
+  float: right;
+  border-style: none;
+}
+.frequent{
+  
+  font-size: 25px;  
+  text-align: left;
+  border-style: none;
+  font-Family: bold;
+}
+.frequent1{
+  border-style: solid;
+  font-Family: bold;
+}
+.frequentproducts{
+height:100px;
+  float: left; 
+  font-size: 20px;  
+  padding: 5px;
+  text-align: center;
+  border-style: none;
+}
+.priceforboth{
+  height:100px;width: 300px;
+  float: right; 
+  font-size: 20px;  
+  padding: 5px;
+  text-align: center;
+  border-style: none;
+  background-color: rgb(245, 229, 229);
+  font-Family: bold;
+}

@@ -1,0 +1,22 @@
+
+
+.text {
+    font-size: 30px;
+    display:flex;margin: 20px;
+    padding-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+.textDiv2{
+    margin: 20px;
+    border:2px solid red;
+    height: 100px;
+    width: 300px;
+    background-color:white;
+}
+
+.bar2{
+height: 5px;
+width: 70px;margin-left:50px ;
+background-color:rgb(125, 29, 29)
+}
+

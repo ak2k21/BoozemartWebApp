@@ -1,0 +1,49 @@
+.product-page {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .product-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-right: 71%;
+  }
+  .item{
+    margin-top: -12%;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+  }
+  
+  .subtotal,
+  .tax,
+  .service,
+  .total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .subtotal-value,
+  .tax-value,
+  .service-value,
+  .total-value {
+    font-weight: bold;
+  }
+  
+  .price {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+  }
+  
